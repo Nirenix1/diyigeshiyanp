@@ -1,0 +1,9 @@
+GIt官网：
+source  来源
+contributors  贡献者        potential 潜在的    labeles 标签 edit 项目描述  点击可以修改项目标书  
+create new file 创建文件     
+update file  上传文件  
+find file 搜索仓库文件
+ 来源：github issue页面    
+Label issues and pull requests for new contributors
+Now, GitHub will help potential first-time contributors discover issues labeled with
